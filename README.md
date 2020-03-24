@@ -1,6 +1,5 @@
 # Policy Reporter Code Test
 ## Matthew Cameron
-Phone: 905-806-0572
 
 LinkedIn: https://www.linkedin.com/in/matthewcameron2007/
 
